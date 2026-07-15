@@ -22,6 +22,8 @@
 - **Safe Spawning** — On first join, players spawn at a **random safe spot inside the nearest city** — a walkway, courtyard, or other open area.
 - **Fully Compatible** — Does not affect End Portals, Strongholds, or any other vanilla structures.
 
+![Ancient City Underground](screenshots/ancient-city.png)
+
 ---
 
 ## Features
