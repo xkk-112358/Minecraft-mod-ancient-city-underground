@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "minecraft:ancient_city",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 10,
+        "separation": 2,
+        "salt": 191119
+    }
+}
+

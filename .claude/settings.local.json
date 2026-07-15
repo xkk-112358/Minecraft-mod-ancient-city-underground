@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(javap -classpath \".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-6dd721cd7d/1.21.11-loom.mappings.1_21_11.layered+hash.2198-v2/minecraft-clientOnly-6dd721cd7d-1.21.11-loom.mappings.1_21_11.layered+hash.2198-v2.jar\" net.minecraft.server.level.ServerLevel)",
+      "Bash(javap -classpath \".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-6dd721cd7d/1.21.11-loom.mappings.1_21_11.layered+hash.2198-v2/minecraft-common-6dd721cd7d-1.21.11-loom.mappings.1_21_11.layered+hash.2198-v2.jar\" net.minecraft.server.level.ServerLevel)"
+    ]
+  }
+}
