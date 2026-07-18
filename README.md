@@ -20,6 +20,7 @@
 - **High Density** — Generation spacing of 10 chunks. With a 128-block city radius, **every chunk is covered** by city structures.
 - **Moderate Overlap** — Cities overlap just enough for full coverage without excessive clustering.
 - **Safe Spawning** — On first join, players spawn at a **random safe spot inside the nearest city** — a walkway, courtyard, or other open area.
+- **Bedrock Roof** — A bedrock layer at Y=60 seals the underground world. No blocks or mobs generate above it.
 - **Fully Compatible** — Does not affect End Portals, Strongholds, or any other vanilla structures.
 
 ![Ancient City Underground](screenshots/ancient-city.png)
@@ -34,6 +35,7 @@
 | 📐 **Optimized Density** | `spacing=10, separation=2`, ~160 block average spacing, 128-block coverage radius |
 | 🎲 **Random Spawn** | Each new world spawns you at a different spot — courtyard, walkway, or city gate |
 | 🛡️ **Safety Check** | Automatically verifies ground is solid, body and head are in open air |
+| 🧱 **Bedrock Roof** | Bedrock layer at Y=60 with no blocks or mobs above — a sealed underground world |
 | ⚡ **Lightweight** | Pure datapack overrides + Mixin, no vanilla structure definitions modified |
 
 ---

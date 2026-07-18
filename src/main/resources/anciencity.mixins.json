@@ -4,7 +4,9 @@
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin",
-		"PlayerListMixin"
+		"PlayerListMixin",
+		"TerrainMixin",
+		"MobSpawnMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -3,7 +3,7 @@
 	"id": "anciencity",
 	"version": "${version}",
 	"name": "Ancient City Underground",
-	"description": "Makes Ancient Cities generate densely underground in all Overworld biomes. Every chunk is covered by city structures with moderate overlap. Players spawn safely inside the city.",
+	"description": "Makes Ancient Cities generate densely underground in all Overworld biomes. Every chunk covered, safe spawn inside city, bedrock roof at Y=60 with no blocks/mobs above.",
 	"authors": [
 		"xiaomaiya"
 	],
